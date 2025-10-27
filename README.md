@@ -66,3 +66,51 @@ This project is a **Scientific Calculator** built using **C++**, which performs 
 ```bash
 g++ scientific_calculator.cpp -o calculator
 ./calculator
+**💡 Example Output**
+======================== Scientific Calculator ========================
+
+ 1.Addition        2.Subtraction      3.Multiplication   4.Division
+ 5.Square          6.Square Root      7.Cube             8.Cube Root
+ 9.Power           10.Modulus         11.Sine            12.Cosine
+13.Tangent         14.Cosecant        15.Secant          16.Cotangent
+
+17.Inverse Sine    18.Inverse Cos     19.Inverse Tan     20.Hyperbolic Sine
+21.Hyperbolic Cos  22.Hyperbolic Tan  23.Natural Log     24.Base-10 Log
+25.Log Base-n(x)   26.Hypotenuse      27.Exponential     28.Factorial
+29.Permutation     30.Combination
+
+======================================================================
+31.Show Menu Again       0.Exit
+======================================================================
+
+Enter choice (0-30): 1
+Enter numbers (enter 0 to stop): 5 10 15 0
+Addition = 30
+------------------------------------------------------------------------
+```
+## **🧑‍💻 Author**
+
+**Name:** Ritu Raaz  
+**Course:** B.Sc (AI & ML)  
+**Language:** C++  
+**IDE:** Visual Studio  
+**Focus Area:** Object-Oriented & Scientific Computing  
+
+---
+
+## 🚀 Future Improvements
+
+- GUI version using **Qt** or **Tkinter**  
+- Add support for **complex numbers**  
+- Include **history and memory** functions  
+- Export calculation **logs to a file**  
+
+---
+
+## 🪪 License
+
+This project is **open-source** and free to use for educational or personal projects.  
+Attribution is appreciated but not required.  
+
+---
+
