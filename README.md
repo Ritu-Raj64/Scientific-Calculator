@@ -4,7 +4,7 @@
 This project is a **Scientific Calculator** built using **C++**, which performs both basic arithmetic and advanced mathematical operations. It runs in the terminal and gives users a clean, menu-based interface to perform calculations easily.
 
 ## 🔗 GitHub Repository  
-[View Project on GitHub](https://github.com/Ritu-Raj64/Student-Marks-Management-System)
+[View Project on GitHub](https://github.com/Ritu-Raj64/Scientific-Calculator/blob/main/Calculator.cpp)
 
 ---
 
