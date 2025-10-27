@@ -3,6 +3,9 @@
 ## 📌 Overview
 This project is a **Scientific Calculator** built using **C++**, which performs both basic arithmetic and advanced mathematical operations. It runs in the terminal and gives users a clean, menu-based interface to perform calculations easily.
 
+## 🔗 GitHub Repository  
+[View Project on GitHub](https://github.com/Ritu-Raj64/Student-Marks-Management-System)
+
 ---
 
 ## ⚙️ Features
@@ -88,13 +91,6 @@ Enter numbers (enter 0 to stop): 5 10 15 0
 Addition = 30
 ------------------------------------------------------------------------
 ```
-## **🧑‍💻 Author**
-
-**Name:** Ritu Raaz  
-**Course:** B.Sc (AI & ML)  
-**Language:** C++  
-**IDE:** Visual Studio  
-**Focus Area:** Object-Oriented & Scientific Computing  
 
 ---
 
@@ -111,6 +107,14 @@ Addition = 30
 
 This project is **open-source** and free to use for educational or personal projects.  
 Attribution is appreciated but not required.  
+
+## **🧑‍💻 Author**
+
+**Name:** Ritu Raaz  
+**Course:** B.Sc (AI & ML)  
+**Language:** C++  
+**IDE:** Visual Studio  
+**Focus Area:** Object-Oriented & Scientific Computing  
 
 ---
 
